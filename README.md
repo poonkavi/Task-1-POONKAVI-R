@@ -52,7 +52,7 @@ You: tell me a joke
 DecoBot: Why do programmers prefer dark mode? Because light attracts bugs! 
 
 You: exit
-DecoBot: Goodbye! Session ended. Keep learning! 🎓
+DecoBot: Goodbye! Session ended. Keep learning! 
 =======================================================
  How It Works (IPO Model)
 INPUT  →  Sanitize (lower + strip)  →  PROCESS (dict lookup)  →  OUTPUT (response)
