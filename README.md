@@ -43,7 +43,7 @@ chatbot-project
 -------------------------------------------------------
 
 You: hello
-DecoBot: Hello! 👋 I'm DecoBot. How can I help you today?
+DecoBot: Hello!  I'm DecoBot. How can I help you today?
 
 You: what is ai
 DecoBot: AI stands for Artificial Intelligence – machines programmed to simulate human thinking. 
@@ -66,11 +66,5 @@ INPUT  →  Sanitize (lower + strip)  →  PROCESS (dict lookup)  →  OUTPUT (r
 - **Rule-Based AI** vs Probabilistic AI (LLMs)
 - **Dictionary O(1)** lookup vs If-Elif ladder O(n)
 - **IPO Model:** Input → Process → Output
-- **AI Guardrails:** Deterministic control layer over probabilistic systems
-
-## 🏢 About DecodeLabs
-
-DecodeLabs is an ed-tech platform providing hands-on industrial training in AI and technology.  
-🌐 www.decodelabs.tech | 📞 +91 89330 06408
-
+- **AI Guardrails:** Deterministic control layer over probabilistic system
 
